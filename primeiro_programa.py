@@ -5,3 +5,4 @@ print("comando git pull")
 
 print("teste 2")
 print("teste 3")
+print("fetch")
